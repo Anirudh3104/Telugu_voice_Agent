@@ -1,0 +1,21 @@
+# Core numerical + ML
+numpy
+torch
+
+# RAG / embeddings
+sentence-transformers
+faiss-cpu
+tqdm
+
+# Hugging Face ecosystem
+transformers
+accelerate
+
+# Speech-to-Text (Indic Seamless)
+sounddevice
+soundfile
+scipy
+torchaudio
+
+# Text-to-Speech (Indic Parler TTS)
+parler-tts
